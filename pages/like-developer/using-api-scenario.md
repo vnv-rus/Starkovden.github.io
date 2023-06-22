@@ -21,8 +21,10 @@ folder: like-developer
 ## Идея конечной цели
 
 Чтобы понимать конечную цель, вот пример:
+https://idratherbewriting.com/assets/files/wind-openweathermap.html
 
-[idratherbewriting.com/learnapidoc/assets/files/wind-openweathermap.html](https://idratherbewriting.com/learnapidoc/assets/files/wind-openweathermap.html)
+//[idratherbewriting.com/learnapidoc/assets/files/wind-openweathermap.html](https://idratherbewriting.com/learnapidoc/assets/files/wind-openweathermap.html)
+[idratherbewriting.com/assets/files/wind-openweathermap.html](https://idratherbewriting.com/assets/files/wind-openweathermap.html)
 
 Конечно пример отличается от макета выше, но здесь есть место для ответов на вопрос: «Какой сейчас ветер и температура?»
 
